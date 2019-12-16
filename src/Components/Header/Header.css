@@ -1,0 +1,13 @@
+.header {
+    padding: 20px;
+}
+.active{
+    background: yellowgreen;
+    color: yellow;
+    text-decoration: none;
+}
+.link{
+    margin: 0 15px;
+    text-decoration: none;
+    color: white;
+}
